@@ -7,7 +7,7 @@
 
 Welcome to my profile! I'm a machine learning and deep learning enthusiast with a passion for applying these technologies to improve healthcare outcomes. With a Masters degree in Medical Informaticst from Tehran University of Medical Sciences (TUMS), I'm dedicated to exploring the potential of AI in medicine.
 
-I love cycling, camping and photorgraphing
+I love cycling, camping and photographing
 
 ## Collaboration
-I'm always looking for like-minded individuals to collaborate on projects that can make a meaningful impact in the medical community. If you're interested in exploring the intersection of machine learning and medicine, let's connect!
+I'm always looking for like-minded individuals to collaborate on projects that can make a meaningful impact in the medical community. If you're interested in exploring the intersection of machine learning, deep learning and medicine, let's connect!
