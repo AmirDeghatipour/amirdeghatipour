@@ -1,7 +1,7 @@
 ## Hi I'm Amir 👋 ![Animated GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-[![Linkedin Badge](https://img.shields.io/badge/-deghatipour-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deghatipour/)](https://www.linkedin.com/in/deghatipour/)
-[![Twitter Badge](https://img.shields.io/badge/-@deghatipour-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/deghatipour)](https://twitter.com/deghatipour)
+[![Linkedin Badge](https://img.shields.io/badge/-deghatipour-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deghatipour/)](https://www.linkedin.com/in/amirdeghatipour/)
+[![Twitter Badge](https://img.shields.io/badge/-@deghatipour-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/deghatipour)]([https://twitter.com/deghatipour](https://x.com/AmirDeghatipour))
 [![Instagram Badge](https://img.shields.io/badge/-@a.deghatipour-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/a.deghatipour/)](https://www.instagram.com/a.deghatipour/)
 [![Gmail Badge](https://img.shields.io/badge/-a.deghatipour-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:a.deghatipour@gmail.com)](mailto:a.deghatipour@gmail.com)
 
