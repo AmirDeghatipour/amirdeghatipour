@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@AmirDeghatipour-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/deghatipour)](https://x.com/AmirDeghatipour)
 [![Instagram Badge](https://img.shields.io/badge/-@a.deghatipour-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/a.deghatipour/)](https://www.instagram.com/a.deghatipour/)
 [![Gmail Badge](https://img.shields.io/badge/-a.deghatipour-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:a.deghatipour@gmail.com)](mailto:a.deghatipour@gmail.com)
-()
+
 Welcome to my profile! I'm a machine learning and deep learning enthusiast with a passion for applying these technologies to improve healthcare outcomes. With a Masters degree in Medical Informaticst from Tehran University of Medical Sciences (TUMS), I'm dedicated to exploring the potential of AI in medicine.
 
 I love cycling, camping and photographing
